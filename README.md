@@ -1,2 +1,3 @@
 # Aprendizaje-Automatico
-Repositorio con proyectos de la materia Aprendizaje Automático o contenidos que se ven en ella. Cursada en el 1er cuatrimestre de 2022.
+
+En este repositorio incluyo los proyectos realizados a lo largo de la materia Aprendizaje Automático o aquellos relacionados con los temas de la materia. 
